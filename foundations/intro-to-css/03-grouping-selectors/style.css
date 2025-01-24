@@ -1,0 +1,13 @@
+.caution, .black {
+    font-family: Helvetica, 'Times New Roman', serif;
+    font-size: 28px;
+}
+
+.caution {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
